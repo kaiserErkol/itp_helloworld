@@ -6,6 +6,6 @@ public class Main {
 
         System.out.println("nd mei problem");
 
-        System.out.println("elden Ring wallah gut");
+        System.out.println("gibts goa nd");
     }
 }
